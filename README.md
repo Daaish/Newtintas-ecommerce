@@ -1,6 +1,6 @@
-# Fantasia — E-commerce
+# Newtintas — E-commerce
 
-Projeto React + Vite + TypeScript com TailwindCSS para e-commerce de fantasias e acessórios.
+Projeto React + Vite + TypeScript com TailwindCSS para e-commerce de tintas
 
 ## Scripts
 
@@ -35,3 +35,4 @@ Projeto React + Vite + TypeScript com TailwindCSS para e-commerce de fantasias e
 ## Próximos passos
 - Implementar estado do carrinho (Context API) com adicionar/remover/quantidade e resumo.
 - Refinar tema visual e responsividade.
+
