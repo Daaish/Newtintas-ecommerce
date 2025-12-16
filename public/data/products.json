@@ -1,0 +1,106 @@
+[
+  {
+    "id": "t1",
+    "name": "Tinta Spray Preto Fosco",
+    "price": 24.90,
+    "description": "Spray de alta cobertura ideal para metal, madeira e plástico.",
+    "image": "https://ferramentasgerais.vteximg.com.br/arquivos/ids/981251/Tinta-em-spray-preto-fosco-350-ml-VONDER---6250350013---VONDER.jpg?v=638929193652430000",
+    "category": "Acessórios"
+  },
+  {
+    "id": "t2",
+    "name": "Tinta Acrílica Branca 18L",
+    "price": 289.90,
+    "description": "Tinta acrílica premium para paredes internas e externas.",
+    "image": "https://images.tcdn.com.br/img/img_prod/1218613/tinta_coral_rende_muito_branco_acrilica_fosco_18_litros_6831_1_8c5c6ad44fd59479f717b9913a7b0cad.jpg",
+    "category": "Residencial"
+  },
+  {
+    "id": "v1",
+    "name": "Verniz para Madeira Acetinado",
+    "price": 119.90,
+    "description": "Proteção contra sol e umidade para madeiras.",
+    "image": "https://www.tintasdarka.com.br/estatico/darka/images/produto/932.jpeg?v=1579870377",
+    "category": "Residencial"
+  },
+  {
+    "id": "t3",
+    "name": "Tinta Esmalte Sintético Azul",
+    "price": 149.90,
+    "description": "Ideal para ferro, madeira e estruturas metálicas.",
+    "image": "https://images.tcdn.com.br/img/img_prod/1265629/esmalte_sintetico_brilhante_maza_azul_celeste_3_6l_2449_1_2b840c3f6692852a2d6afcaf86984b4a.png",
+    "category": "Residencial"
+  },
+  {
+    "id": "t4",
+    "name": "Tinta Spray Vermelho Automotivo",
+    "price": 55.90,
+    "description": "Spray resistente para retoques automotivos.",
+    "image": "https://img.lojadomecanico.com.br/IMAGENS/46/448/581397/1695905525367.JPG",
+    "category": "Automotiva"
+  },
+  {
+    "id": "v2",
+    "name": "Verniz Alto Brilho",
+    "price": 49.90,
+    "description": "Verniz de secagem rápida para acabamento em madeira.",
+    "image": "https://tezbgl.vtexassets.com/arquivos/ids/169903/Verniz--3-.jpg?v=637932442659530000",
+    "category": "Residencial"
+  },
+  {
+    "id": "t5",
+    "name": "Tinta Epóxi Preto para Piso",
+    "price": 189.90,
+    "description": "Indicada para pisos, garagens e áreas industriais.",
+    "image": "https://images.cws.digital/produtos/gg/46/92/tinta-novacor-epoxi-preto-700-36l-7849246-1724847165914.jpg",
+    "category": "Industrial"
+  },
+  {
+    "id": "t6",
+    "name": "Tinta Spray Branco Brilhante",
+    "price": 26.90,
+    "description": "Ideal para reformas rápidas e personalização.",
+    "image": "https://www.tintasdarka.com.br/estatico/darka/images/produto/tintasprayusogeralbrancobrilhante400mlcolorgin_1.png",
+    "category": "Acessórios"
+  },
+  {
+    "id": "v3",
+    "name": "Verniz Fosco Natural",
+    "price": 109.90,
+    "description": "Protege madeira sem alterar a aparência.",
+    "image": "https://chatuba.vtexassets.com/arquivos/ids/161764/Verniz-Sparlack-Maritimo-Fosco-Natural-900ML-Coral.jpg?v=637163415152900000",
+    "category": "Residencial"
+  },
+  {
+    "id": "t7",
+    "name": "Tinta Automotiva Preto Onix",
+    "price": 79.90,
+    "description": "Indicada para pintura automotiva profissional.",
+    "image": "https://img.irroba.com.br/filters:fill(fff):quality(80)/gstintas/catalog/skylack-bp/matheus-de-souza.20240528150321.jpg",
+    "category": "Automotiva"
+  },
+  {
+    "id": "t8",
+    "name": "Tinta Látex Azul Interno",
+    "price": 239.90,
+    "description": "Tinta econômica para paredes internas.",
+    "image": "https://tosel.vtexassets.com/arquivos/ids/372635/27241-0.jpg?v=638888108808670000",
+    "category": "Residencial"
+  },
+  {
+    "id": "v4",
+    "name": "Verniz Spray Brilhante",
+    "price": 32.90,
+    "description": "Acabamento uniforme e secagem rápida.",
+    "image": "https://cdn.awsli.com.br/2500x2500/2492/2492334/produto/189033378/verniz-brilhante-tekspray-super-color-uso-geral-350ml-aerossol-tekbond-saint-gobain-23171006900-04a8863abf.jpg",
+    "category": "Acessórios"
+  },
+  {
+    "id": "t9",
+    "name": "Tinta Anticorrosiva Zarcão",
+    "price": 159.90,
+    "description": "Proteção contra ferrugem para metais.",
+    "image": "https://lojasolar.vtexassets.com/arquivos/ids/260938/3411-1.jpg?v=638962552206700000",
+    "category": "Industrial"
+  }
+]
